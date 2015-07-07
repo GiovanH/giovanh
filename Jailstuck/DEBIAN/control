@@ -1,0 +1,9 @@
+Package: com.giovan.jailstuck
+Name: Jailstuck Theme
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: A homestuck based iPhone theme! Updated for iOS 8.3
+Homepage: reddit.com/u/giovanh
+Maintainer: GiovanH
+Author: GiovanH
+Section: Utilities
