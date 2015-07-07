@@ -2,7 +2,7 @@
 ./packages.sh
 
 dpkg-scanpackages -m . /dev/null >Packages
-bzip2 Jailstuck
+bzip2 Packages
 
 git init
 git remote add origin https://github.com/GiovanH/giovanh.github.com.git
