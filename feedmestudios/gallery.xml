@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	thumbColumns="3"
+	thumbRows="6"
+	backgroundTransparent="true"
+	thumbPosition="RIGHT"
+	frameColor="000000"
+	frameWidth="10"
+
+>
+  <image imageURL="images/flamegoddess.jpg"
+	thumbURL="thumbs/flamegoddess.jpg"
+	linkURL="images/flamegoddess.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Nature]]></caption>
+  </image>
+  <image imageURL="images/flamegoddessflames.jpg"
+	thumbURL="thumbs/flamegoddessflames.jpg"
+	linkURL="images/flamegoddessflames.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Solace]]></caption>
+  </image>
+  <image imageURL="images/inflamesthumb.jpg"
+	thumbURL="thumbs/inflamesthumb.jpg"
+	linkURL="images/inflamesthumb.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Wrath]]></caption>
+  </image>
+  <image imageURL="images/Flamegoddesswander.jpg"
+	thumbURL="thumbs/Flamegoddesswander.jpg"
+	linkURL="images/Flamegoddesswander.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Wander]]></caption>
+  </image>
+  <image imageURL="images/Fallgoddess.gif"
+	thumbURL="thumbs/Fallgoddess.jpg"
+	linkURL="images/Fallgoddess.gif"
+	linkTarget="_blank">
+    <caption><![CDATA[Reflection]]></caption>
+  </image>
+  <image imageURL="images/corpsebloom.jpg"
+	thumbURL="thumbs/corpsebloom.jpg"
+	linkURL="images/corpsebloom.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Corpse Bloom]]></caption>
+  </image>
+  <image imageURL="images/HalfmoonPatreonbanner.jpg"
+	thumbURL="thumbs/HalfmoonPatreonbanner.jpg"
+	linkURL="images/HalfmoonPatreonbanner.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Halfmoon Promo]]></caption>
+  </image>
+  <image imageURL="images/Codysomethingyoushouldnthave.png"
+	thumbURL="thumbs/Codysomethingyoushouldnthave.jpg"
+	linkURL="images/Codysomethingyoushouldnthave.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Did you eat something you shouldn't have?]]></caption>
+  </image>
+  <image imageURL="images/eyewolfdoodle.jpg"
+	thumbURL="thumbs/eyewolfdoodle.jpg"
+	linkURL="images/eyewolfdoodle.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Dark]]></caption>
+  </image>
+  <image imageURL="images/SeaofWolves_notext_small.jpg"
+	thumbURL="thumbs/SeaofWolves_notext_small.jpg"
+	linkURL="images/SeaofWolves_notext_small.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sea of Wolves]]></caption>
+  </image>
+  <image imageURL="images/rismonsterinks.jpg"
+	thumbURL="thumbs/rismonsterinks.jpg"
+	linkURL="images/rismonsterinks.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[A monster...]]></caption>
+  </image>
+  <image imageURL="images/CodyandRismonster.jpg"
+	thumbURL="thumbs/CodyandRismonster.jpg"
+	linkURL="images/CodyandRismonster.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[You are a monster.]]></caption>
+  </image>
+  <image imageURL="images/Risflight.jpg"
+	thumbURL="thumbs/Risflight.jpg"
+	linkURL="images/Risflight.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Lament]]></caption>
+  </image>
+  <image imageURL="images/rubescubes.png"
+	thumbURL="thumbs/rubescubes.jpg"
+	linkURL="images/rubescubes.png"
+	linkTarget="_blank">
+    <caption><![CDATA[Rubes Cubes]]></caption>
+  </image>
+  <image imageURL="images/lightningkibble.gif"
+	thumbURL="thumbs/lightningkibble.jpg"
+	linkURL="images/lightningkibble.gif"
+	linkTarget="_blank">
+    <caption><![CDATA[Lightning Kibble]]></caption>
+  </image>
+  <image imageURL="images/Arieltoskaandrum.jpg"
+	thumbURL="thumbs/Arieltoskaandrum.jpg"
+	linkURL="images/Arieltoskaandrum.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Ariel- gift art for the webcomic Toska and Rum]]></caption>
+  </image>
+  <image imageURL="images/vampiregirlfriend2.jpg"
+	thumbURL="thumbs/vampiregirlfriend2.jpg"
+	linkURL="images/vampiregirlfriend2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Vampire Girlfriend]]></caption>
+  </image>
+  <image imageURL="images/rainsnarl.jpg"
+	thumbURL="thumbs/rainsnarl.jpg"
+	linkURL="images/rainsnarl.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Rain Snarl]]></caption>
+  </image>
+  <image imageURL="images/sick.jpg"
+	thumbURL="thumbs/sick.jpg"
+	linkURL="images/sick.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sick]]></caption>
+  </image>
+  <image imageURL="images/wolfface.jpg"
+	thumbURL="thumbs/wolfface.jpg"
+	linkURL="images/wolfface.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[We're running out of time...]]></caption>
+  </image>
+  <image imageURL="images/blacksquirrelflat.jpg"
+	thumbURL="thumbs/blacksquirrelflat.jpg"
+	linkURL="images/blacksquirrelflat.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Gift for Felix Kramer]]></caption>
+  </image>
+  <image imageURL="images/methirdeye.jpg"
+	thumbURL="thumbs/methirdeye.jpg"
+	linkURL="images/methirdeye.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Self Portrait]]></caption>
+  </image>
+  <image imageURL="images/felixportrait.jpg"
+	thumbURL="thumbs/felixportrait.jpg"
+	linkURL="images/felixportrait.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Gift for Felix Kramer]]></caption>
+  </image>
+  <image imageURL="images/monsterkingportrait.jpg"
+	thumbURL="thumbs/monsterkingportrait.jpg"
+	linkURL="images/monsterkingportrait.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Self Portrait]]></caption>
+  </image>
+  <image imageURL="images/Hezacontrol.jpg"
+	thumbURL="thumbs/Hezacontrol.jpg"
+	linkURL="images/Hezacontrol.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[icontrol]]></caption>
+  </image>
+  <image imageURL="images/Hezawannafight.jpg"
+	thumbURL="thumbs/Hezawannafight.jpg"
+	linkURL="images/Hezawannafight.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Wanna Fight?]]></caption>
+  </image>
+  <image imageURL="images/spookyjack.jpg"
+	thumbURL="thumbs/spookyjack.jpg"
+	linkURL="images/spookyjack.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Spooky Jack]]></caption>
+  </image>
+  <image imageURL="images/chimeraplanet.jpg"
+	thumbURL="thumbs/chimeraplanet.jpg"
+	linkURL="images/chimeraplanet.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Chimera Planet]]></caption>
+  </image>
+  <image imageURL="images/ksispookymonsters.jpg"
+	thumbURL="thumbs/ksispookymonsters.jpg"
+	linkURL="images/ksispookymonsters.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Commission for ksi]]></caption>
+  </image>
+  <image imageURL="images/miloforest.jpg"
+	thumbURL="thumbs/miloforest.jpg"
+	linkURL="images/miloforest.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Adventure]]></caption>
+  </image>
+  <image imageURL="images/BreakCityfull.jpg"
+	thumbURL="thumbs/BreakCityfull.jpg"
+	linkURL="images/BreakCityfull.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Break City- character concepts]]></caption>
+  </image>
+  <image imageURL="images/BreakCityLineupred.jpg"
+	thumbURL="thumbs/BreakCityLineupred.jpg"
+	linkURL="images/BreakCityLineupred.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Break City-character concepts]]></caption>
+  </image>
+  <image imageURL="images/snakeeyes.jpg"
+	thumbURL="thumbs/snakeeyes.jpg"
+	linkURL="images/snakeeyes.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Snake Curses]]></caption>
+  </image>
+  <image imageURL="images/snakecursesdoodledoop.jpg"
+	thumbURL="thumbs/snakecursesdoodledoop.jpg"
+	linkURL="images/snakecursesdoodledoop.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Snake Curses- concept art]]></caption>
+  </image>
+  <image imageURL="images/snakehaus.jpg"
+	thumbURL="thumbs/snakehaus.jpg"
+	linkURL="images/snakehaus.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Snake Curses- concept art]]></caption>
+  </image>
+  <image imageURL="images/snakecurses1.jpg"
+	thumbURL="thumbs/snakecurses1.jpg"
+	linkURL="images/snakecurses1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Snake Curses- concept art]]></caption>
+  </image>
+  <image imageURL="images/Thesedaysareoutofphase.gif"
+	thumbURL="thumbs/Thesedaysareoutofphase.jpg"
+	linkURL="images/Thesedaysareoutofphase.gif"
+	linkTarget="_blank">
+    <caption><![CDATA[These days our out of phase- inspired by The Servant]]></caption>
+  </image>
+</simpleviewergallery>
